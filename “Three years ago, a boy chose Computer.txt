@@ -1,0 +1,31 @@
+“Three years ago, a boy chose Computer Science.
+Not because he had a plan... but because he was excited.”
+
+“usne sabhi chije kiyi jo use kahi gayi
+He bought courses. He learned tools.
+Every morning, Twitter showed him a new AI tool...
+and every night, he learned it.
+The next morning? There was another one.”
+
+“Claude aur Codex ne toh alag hi dehshat ka maahaul bana rakha tha.”
+
+“Somewhere, 14-year-olds were becoming founders.
+And in his college...
+they were still teaching us Java syntax.”
+
+"and that boy none other than me "
+
+“my friends asked me, ‘Bhai, padhna kya hai’
+mai khud adhe dipression mai huu.
+They bought ₹30,000 courses.
+i bought chai.”
+
+But after spending  three years, here’s what actually worked for me.”
+“Stop chasing every new tool. Stop collecting courses.” 
+
+"what we need to be doing is bulding more projects, build as many projects as possible especially if you are learning  cs in 2027 then  that is a number one that i feel "
+
+“I learned more building projects than from any course I’ve ever taken.”
+
+“Anyway... I have an exam tomorrow. So I’m off to memorize Java syntax.”
+“Bye, see you in the next one.”

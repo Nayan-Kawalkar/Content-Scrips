@@ -1,0 +1,102 @@
+I make a ai agent for my client , who have a e-commerse business for selling cloths, what happen with many e-commerse business, they run facebook add, instgram reel, and many time people are come in there web site throught this but they doesn't but it , let suppose, a neha is watching reel and certainly find good clothing reel, she visite to your website for buy that cloth and with them add some more cloth in card and make a bil around 3000, when thy just going to click on buy ad make a payment, sudden his call him, (boss shought) hey neha what you are doing are came here for watching a reels or shopiing , do your work , make excel sheet right now, and she just lost that reel , that website , and that cloths and your 3000 rs, and aftr sme time she forget all, and you lost your coustemer, the same thing happening with my client for this I make a solution for them by Agentic workflow , where my agent after some time she doesnot buy a product or make a payment, my agent will msg them over WhatsApp like "Hey Neha you just add this cloth on cart, do like it , I am offering this with 10 or 20% off" and she remembrize that and she instantly make a payment and place a order your businness get profit
+
+link nayankawalkar07@gmail.com https://claude.ai/chat/384330b6-4334-4f90-a60a-4e22cc0fd4fd 
+
+🎙️ FULL SCRIPT
+
+[HOOK — 0:00 to 0:05]
+[Text on screen: "Your customer was THIS close to buying... and you lost them forever."]
+
+"You're spending thousands on Facebook Ads, Instagram Reels...
+And still losing customers at the last second.
+Here's why — and how I fixed it."
+
+
+[STORY BEGINS — 0:06 to 0:30]
+[Casual, storytelling voice. Maybe soft background music.]
+
+"Meet Neha."
+She's scrolling Instagram at 2 PM...
+suddenly a reel stops her —
+a beautiful outfit, exactly her style.
+She visits the website.
+Adds that dress to cart.
+Then adds two more.
+Her total? ₹3,000.
+She's literally ONE tap away from placing the order...
+[Pause for effect]
+Her boss shouts —
+"Neha! Stop scrolling reels! Finish that Excel sheet RIGHT NOW!"
+She locks her phone.
+Walks away.
+Forgets the website.
+Forgets the clothes.
+Forgets everything.
+And you just lost ₹3,000 — silently. Without even knowing it.
+
+
+[PROBLEM STATEMENT — 0:31 to 0:40]
+[Serious tone. Direct eye contact or bold text on screen.]
+
+"This is not Neha's fault.
+This is not your fault.
+But this IS happening to your business — every single day."
+Abandoned carts are the biggest silent killer of e-commerce revenue.
+And most businesses? They do absolutely nothing about it.
+
+
+[SOLUTION — 0:41 to 1:10]
+[Confident, exciting tone. Show phone notification visuals if possible.]
+
+"So I built an AI Agent for my client — a clothing e-commerce brand —
+using Agentic Workflow automation."
+
+Here's what happens now —
+The moment Neha abandons her cart...
+My AI Agent is already watching.
+After a set time — no payment, no order —
+Neha gets a WhatsApp message.
+[Show WhatsApp notification animation]
+"Hey Neha! 👗 You left something behind...
+That dress you loved? It's still waiting for you.
+And just for you — here's 15% OFF. Only for the next 2 hours. 🛍️"
+Neha sees it.
+Smiles.
+Clicks the link.
+Places the order.
+In under 60 seconds.
+₹3,000 recovered. Customer retained. Business wins.
+
+
+[RESULT & CREDIBILITY — 1:11 to 1:20]
+
+"This one AI Agent is silently recovering lost revenue —
+every hour, every day, on autopilot.
+No manual follow-ups. No extra ad spend.
+Just intelligent automation doing the work."
+
+
+[CTA — 1:21 to 1:30]
+[Bold, direct, confident]
+
+"If you run an e-commerce business and you're tired of losing customers
+at the final step —
+Drop a '🤖' in the comments or DM me 'AGENT'
+and let's build this for your business too."
+
+[Text on screen: "AI Agents | WhatsApp Automation | E-Commerce Solutions"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hey guys if you my previous video where I make a ai agentic automation for clients e-commerce business- through this I get one more new client and his budget slightly high so , they told me I want something more than that so , I create a multi agent work flow who not just remaindering a uboundend cart message , also he worn customer about a new offers , new cloths accouding to there style, and even customer can chat with agent on whats app like , like he ask him show me a latest Korean top for accouding to my  style , color will be  pink or white , and agent will suggest with images and links, also he can suggest cloths to customer what shought ware with this , like Q. what shoude I were with this korean top   and  Boom it will suggest
